@@ -1,0 +1,164 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "maikol ",
+      "surnames": "aguilar",
+      "title": "Per aspera ad astra",
+      "description": "Emerging junior fullstack developer with work experience as a freelancer, passionate since childhood about technology, proactive and creative mind to create solutions. Clean code and business logic optimizer, currently making use of frontend and some backend with more known technologies.",
+      "avatar": {
+        "alt": "blob.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/ef0f917a-3f1d-43fb-81f2-f8c8f01c800d_blob.png"
+      },
+      "location": {
+        "country": "Venezuela",
+        "region": "Portuguesa",
+        "municipality": "Araure",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/maikCyphlock"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/maikolaguilar11"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/maikol-aguilar-4927241b4"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Chess player",
+        "fact": " I'm chess player in chess.com with 1024 ELO, so far."
+      },
+      {
+        "topic": "I love playing the piano and guitar.",
+        "fact": "I started learning to play the piano when I was 18 years old, and I loved it, so I'm still learning."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TBD"
+        },
+        "roles": [
+          {
+            "name": "TBD",
+            "startDate": "2022-12-21",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/maikol-aguilar-4927241b4"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
