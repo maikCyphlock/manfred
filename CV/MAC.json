@@ -63,6 +63,36 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Kings league proyect",
+          "description": "I had the opportunity to participate in open source project of Kings league led by midudev and I made two contributions to rules section and add GitHub action status in README",
+          "URL": "https://github.com/maikCyphlock/kings-league-project/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
