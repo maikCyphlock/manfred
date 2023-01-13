@@ -92,6 +92,38 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Dolar VE ",
+          "description": "This is a mini-app made with astro that gets data from the backend: https://github.com/maikCyphlock/dollar-ve-api that scrapes and retrieves the data to Cloudflare workers and GitHub actions deploy the API every hour.\n\nlink to the frontend repo: https://github.com/maikCyphlock/dollar-frontend-api",
+          "URL": "https://dollar-frontend-api.vercel.app/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
