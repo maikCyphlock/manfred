@@ -232,6 +232,12 @@
           "name": "AngularJS",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
