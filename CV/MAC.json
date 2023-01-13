@@ -183,6 +183,23 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EPSET English Certificate 72/100 (C2 proficient)",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "EF Standard English Test (EF SET) ",
+          "description": " EF SET score scale and C2 Proficient according to the Common European Framework of Reference (CEFR)",
+          "URL": "https://www.efset.org/cert/tw4y9D",
+          "image": {
+            "alt": "6ea6771479ceeade5f025fb16ff71264[1].svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/13/b0903ec7-a9c7-4afd-8f42-73c181a0f6e9_6ea6771479ceeade5f02.svg"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
