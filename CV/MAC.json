@@ -46,24 +46,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "TBD"
-        },
-        "roles": [
-          {
-            "name": "TBD",
-            "startDate": "2022-12-21",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
